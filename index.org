@@ -99,8 +99,10 @@ Maybe with before/after code?
 - writing asynchronous code
 
 *** How can we get more people from beginner to intermediate?
+
 *** How can we get more people to begin using Emacs and stick with it for a while?
 - How can interactive tutorials do a better job of introducing and selling Emacs? - Phillip Lord?
+- Get some links to start for newbies, maybe collect them on emacs.zeef.com ? - Rene Froger
 
 *** Organizing Emacs meetups
 **** Identifying people by area who might be interested in an Emacs meetup
